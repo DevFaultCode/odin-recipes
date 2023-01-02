@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(27, 24, 24);
+    color: rgba(255, 255, 255, 0.8);
+    font-family: "leafy", sans-serif;
+    line-height: 1.7;
+    font-size: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.recipe img {
+    width: 720px;
+    height: auto;
+}
+
+a {
+    display: block;
+    font-family: "Lato", sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
